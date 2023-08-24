@@ -8,3 +8,10 @@
 // https://medium.com/@meric.emmanuel/react-state-management-best-practices-for-2021-aka-no-redux-11f0459c22c1
 // https://kentcdodds.com/blog/how-to-use-react-context-effectively
 // https://kentcdodds.com/blog/application-state-management-with-react
+
+// render prop pattern
+
+// https://www.patterns.dev/posts/render-props-pattern
+
+// miro and macro task queue
+//https://www.codingninjas.com/studio/library/microtask-and-macrotask-in-javascript

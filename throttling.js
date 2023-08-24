@@ -9,7 +9,7 @@ const throttle = function (callback, limit) {
       callback.apply(context, args);
       flag = false;
       setTimeout(() => {
-        flag = false;
+        flag = true;
       }, limit);
     }
   };
